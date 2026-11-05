@@ -8,7 +8,10 @@
     "Jonathan Neal <jonathantneal@hotmail.com>"
   ],
   "license": "CC0-1.0",
-  "repository": "@forumone/postcss-advanced-variables",
+  "repository": {
+    "type": "git",
+    "url": "@forumone/postcss-advanced-variables"
+  },
   "main": "index.js",
   "module": "index.mjs",
   "files": [
