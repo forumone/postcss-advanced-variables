@@ -2,12 +2,8 @@ node_modules
 *.log*
 *.result.css
 *.result.scss
-.*
-!.editorconfig
-!.gitignore
-!.rollup.mjs
-!.rollup.js
-!.tape.js
-!.travis.yml
 /index.js
 /index.mjs
+.DS_Store
+.idea
+.vscode
