@@ -1,9 +1,6 @@
-# PostCSS Advanced Variables [<img src="https://postcss.github.io/postcss/logo.svg" alt="PostCSS Logo" width="90" height="90" align="right">][postcss]
+# PostCSS Advanced Variables
 
-[![NPM Version][npm-img]][npm-url]
-[![Build Status][cli-img]][cli-url]
-[![Test Status][test-img]][test-url]
-[![Support Chat][git-img]][git-url]
+Forked from https://github.com/csstools/postcss-advanced-variables
 
 [PostCSS Advanced Variables] lets you use Sass-like variables, conditionals,
 and iterators in CSS.
