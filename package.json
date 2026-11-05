@@ -1,6 +1,6 @@
 {
   "name": "@forumone/postcss-advanced-variables",
-  "version": "5.0.0",
+  "version": "5.0.1",
   "description": "Use Sass-like variables, conditionals, and iterators in CSS",
   "author": "Forum One",
   "contributors": [
